@@ -14,7 +14,7 @@ double grade;
 
 
 
-printf("학점을 입력하시오: ");
+printf("학점을 입력하시오 : ");
 
 
 
